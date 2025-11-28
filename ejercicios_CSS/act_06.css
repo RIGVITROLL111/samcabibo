@@ -1,0 +1,9 @@
+div.formato6 {
+    font: Arial, 10pt;
+    text-indent: 10%;
+    text-decoration: underline, blue;
+    line-height: 2;
+}
+div.formato6::first-letter{
+    font-weight: bold;
+}
